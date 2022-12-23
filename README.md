@@ -1,6 +1,5 @@
 # School Analysis using Pandas
-
-![]()
+To chack the [code](https://github.com/hakeem235/school_analysis_pandas/blob/main/Student_Data_Challenge.ipynb)
 
 ## Purpose of the analyis
 
@@ -29,7 +28,7 @@ ____
 
 ____
 
-## Comparisons Between Public and Charter Schools
+## The Result 
 
 - Montgomery High School has Montgomery the highest number of student. Total of 2038 student
 
