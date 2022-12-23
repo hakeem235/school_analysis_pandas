@@ -1,5 +1,7 @@
 # School Analysis using Pandas
 
+![]()
+
 ## Purpose of the analyis
 
 The purpose of this analysis is to use a new dataset containing school budgets and modify some of the analysis.
